@@ -20,7 +20,7 @@ Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, ad
 
 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. 
 
-## 01/09/20 - Enregistement de la professeur de Piano Natalia
+## 01/09/20 - Enregistement de la professeure de Piano Natalia
 
 (son1)
 
